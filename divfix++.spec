@@ -64,3 +64,10 @@ EOF
 %{_datadir}/applications/%{oname}.desktop
 %{_datadir}/pixmaps/%{oname}.png
 
+
+
+%changelog
+* Wed Feb 22 2012 Andrey Bondrov <abondrov@mandriva.org> 0.34-1
++ Revision: 779215
+- imported package divfix++
+
