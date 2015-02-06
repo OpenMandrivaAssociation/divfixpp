@@ -6,7 +6,7 @@
 Name:		divfix++
 Summary:	A program to repair broken AVI file streams by rebuilding index part of file
 Version:	0.34
-Release:	%mkrel 1
+Release:	2
 License:	GPL
 Group:		Video
 URL:		http://divfixpp.sourceforge.net/
