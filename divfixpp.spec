@@ -9,7 +9,7 @@ Version:	0.34
 Release:	2
 License:	GPL
 Group:		Video
-URL:		http://divfixpp.sourceforge.net/
+URL:		https://divfixpp.sourceforge.net/
 Source0:	%{oname}_v%{version}-src.tar.bz2
 BuildRequires:	dos2unix
 BuildRequires:	wxgtku-devel
